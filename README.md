@@ -7,4 +7,4 @@
 # Criando um Servidor HTTP
 
 ## Orientações 
->Projeto com o objetivo de criar um servidor em HTTP, que receba requisições GET, e retorne um JSON uja chave extenso seja a versão por extenso do número inteiro enviado no path. Os números podem estar no intervalo [-99999, 99999].
+>Projeto com o objetivo de criar um servidor em HTTP, que receba requisições GET, e retorne um JSON cuja chave extenso seja a versão por extenso do número inteiro enviado no path. Os números podem estar no intervalo [-99999, 99999].
